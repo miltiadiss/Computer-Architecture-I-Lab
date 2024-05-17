@@ -1,2 +1,3 @@
 # Overview
-![images](https://github.com/miltiadiss/Computer-Architecture-I-Lab/assets/45690339/8c6cfa56-e475-4976-b303-03ba4a00e8f9)
+
+![Στιγμιότυπο οθόνης 2024-05-18 025301](https://github.com/miltiadiss/Computer-Architecture-I-Lab/assets/45690339/0946d8ff-5aab-4791-bc11-f2dbe119e453)
